@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">🌸 𝒲𝒶𝓁𝓀 𝓉𝒽𝓇𝑜𝓊𝑔𝒽 𝓉𝒽𝑒 𝒮𝓀𝓎 ☁️</h1>
 
-<!--
-**Mark-beep-dont-copy-my-style/Mark-beep-dont-copy-my-style** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/c0r09xk.png" alt="soft art" width="500"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🍃 About Me
+- 🌱 Yêu thích sự tĩnh lặng, bầu trời & hoa lá  
+- 🕊️ Tâm hồn thơ mộng, hơi mơ màng  
+- 🎶 Âm nhạc: indie, lo-fi, soft vibes  
+- 🐈 Luôn dành một góc dịu dàng cho mèo  
+
+---
+
+### 🌸 Tech Garden
+```diff
++ Python        🌼
++ JavaScript    🌿
++ HTML & CSS    🌸
++ GitHub        ☁️
